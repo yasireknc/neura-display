@@ -1,6 +1,6 @@
 # Neura Display
 
-![Neura Display Banner](https://github.com/yasireknc/neura-display/blob/main/documentation/default.jpg?raw=true)
+<img src="https://github.com/yasireknc/neura-display/blob/main/documentation/default.gif?raw=true" alt="Neura Display Animation" width="80%">
 
 **Neura Display** is a high-contrast hybrid typeface designed for a futuristic, editorial aesthetic. By stripping traditional serif "feet" (nails and foots) while retaining elegant half-serif terminals and rounded corners, it bridges the gap between scientific precision and luxury fashion. 
 
