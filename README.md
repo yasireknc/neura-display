@@ -9,7 +9,7 @@ It is a sans-serif font at its core, but these unique terminal treatments provid
 ## Features
 - **Variable weight axis:** ranging from 100 (Thin) to 900 (Black).
 - **Hybrid Geometry:** Sans-serif skeleton with high-contrast, half-serif terminals.
-- **Optimized for Display:** High stroke contrast designed specifically for large headlines and editorial layouts.
+- **Optimised for Display:** High stroke contrast designed specifically for large headlines and editorial layouts.
 
 ## Repository Structure
 - `fonts/variable/`: Contains the production-ready `NeuraDisplay[wght].ttf`.
