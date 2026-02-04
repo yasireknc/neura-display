@@ -1,5 +1,4 @@
-Copyright (c) 2025–2026, Yasir Ekinci (https://github.com/yasireknc),  
-with Reserved Font Name "Neura Display".
+Copyright (c) 2025–2026, Yasir Ekinci (https://github.com/yasireknc)
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
